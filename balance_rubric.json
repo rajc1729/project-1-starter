@@ -1,0 +1,6 @@
+{
+  "find_dip_trivial_cases" : 3,
+  "find_dip_nontrivial_cases" : 3,
+  "longest_balanced_span_trivial_cases" : 3,
+  "longest_balanced_span_nontrivial_cases" : 3
+}
